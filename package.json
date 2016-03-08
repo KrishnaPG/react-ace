@@ -1,5 +1,5 @@
 {
-  "name": "react-ace",
+  "name": "juttle-react-ace",
   "version": "3.1.0",
   "description": "A react component for Ace Editor",
   "main": "lib/ace.js",
